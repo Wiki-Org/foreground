@@ -44,6 +44,7 @@ $wgResourceModules['skins.foreground'] = array(
     	'foreground/assets/stylesheets/jquery.autocomplete.css',
     	'foreground/assets/stylesheets/responsive-tables.css'
     ),
+    'position' => 'top',
     'scripts'        => array(
         'foreground/assets/scripts/vendor/custom.modernizr.js',
         'foreground/assets/scripts/vendor/fastclick.js',
